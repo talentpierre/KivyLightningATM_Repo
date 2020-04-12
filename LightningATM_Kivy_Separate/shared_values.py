@@ -15,10 +15,10 @@ class SharedValues:
     # PLACE YOUR CREDENTIALS HERE
     # this path is placed at BTCPAY-Server --> maintenance --> services --> rest-service --> click here
     # if 'v1' is not at the end, you have to add it manually
-    BTCPAY_URL = ''
+    BTCPAY_URL = '<YOUR_LINK_HERE>'
 
     # admin macaroon in hex format
-    LND_MACAROON = ''
+    LND_MACAROON = '<YOUR_MACAROON_HERE>'
 
     # important for the coin acceptor
     # if a coin is inserted this value changes
