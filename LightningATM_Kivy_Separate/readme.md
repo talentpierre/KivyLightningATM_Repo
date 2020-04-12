@@ -161,4 +161,8 @@ If you have done everthing correctly, download the files from Github, go to the 
 ```sh
 $ python3 app.py
 ```
-
+# TO DO
+* LNURL integration
+* raspiblitz integration
+* raspibolt integration
+* cleaner code
