@@ -78,10 +78,6 @@ class SharedValues:
         return SharedValues.SATPRICE
 
     @staticmethod
-    def get_current_FIAT():
-        return SharedValues.CURRENT_FIAT
-
-    @staticmethod
     def get_current_BTCPRICE():
         return SharedValues.CURRENT_BTCPRICE
 
@@ -124,10 +120,6 @@ class SharedValues:
     @staticmethod
     def get_SATPRICE_FEE(value):
         SharedValues.SATPRICE_FEE = value
-
-    @staticmethod
-    def set_current_FIAT(value):
-        SharedValues.CURRENT_FIAT = value
 
     @staticmethod
     def set_current_BTCPRICE(value):
