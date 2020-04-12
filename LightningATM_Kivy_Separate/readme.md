@@ -55,7 +55,7 @@ Buttons for future usage
 # Hardware Setup
 
 ![Hardware Setup](media/hardwaresetup.png)
-![inside view](media/insideview.png)
+![inside view](media/insideview.jpg)
 
 # Software
 Raspbian Image
