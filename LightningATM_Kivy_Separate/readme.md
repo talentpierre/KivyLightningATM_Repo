@@ -4,7 +4,7 @@ The project is based and inspired by the Lightning ATM by 21isenough. Have a loo
 
 Everything in this code is highly documented, so check out the notes first.
 
-![startpage](media/Startpage.png)
+
 
 # Hardware
 Stepup Converter
