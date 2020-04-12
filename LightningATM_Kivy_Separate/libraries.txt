@@ -1,0 +1,2 @@
+zbarlight==3.0
+qrcode==6.1

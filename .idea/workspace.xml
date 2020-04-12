@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aRB6Zat0RDHT8Rcg1aevP5afGo" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1586688451125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586688451125" />
+    <state x="799" y="413" key="Github.ShareDialog" timestamp="1586688523170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586688523170" />
+    <state x="605" y="225" key="Github.UntrackedFilesDialog" timestamp="1586688531978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="605" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586688531978" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586688406262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586688406262" />
+  </component>
+</project>
