@@ -4,6 +4,8 @@ The project is based and inspired by the Lightning ATM by 21isenough. Have a loo
 
 Everything in this code is highly documented, so check out the notes first.
 
+![startpage](media/Startpage.png)
+
 # Hardware
 Stepup Converter
 *  to power the CoinAcceptor with the RaspberryPi
@@ -52,17 +54,18 @@ Buttons for future usage
 
 # Hardware Setup
 
-PICTURE ABOUT SETUP
+![Hardware Setup](media/hardwaresetup.png)
+![inside view](media/insideview.jpg)
 
 # Software
-Raspbian Iamge
+Raspbian Image
 * [Raspbian Buster with desktop](https://www.raspberrypi.org/downloads/raspbian/)
 * I'm not shure if the desktop version is really necessary
 * if you want to know more about your pin numbers, you can simply enter the following in the command prompt
     ```sh
     $ pinout
     ```
-    PICTURE ABOUT PINOUT
+    ![pinout](media/pinout.png)
 
 Kivy environment
 * I used the installation guide for RaspberryPi
@@ -98,6 +101,10 @@ BTCPAY-Server
 -- take the REST Uri --> paste into shared_values --> '.../lnd-rest/btc/v1'
 -- take the AdminMacaroon --> paste into shared_values --> it should be in hex format
 
+# Software/Class Setup
+
+![class setup](media/class_setup.png)
+
 # FAQ
 
 ##### Why I can't scan qr-codes?
@@ -115,7 +122,7 @@ The RaspberryPi camera has some known focus and resolution issues. To fix them y
     ```
 * You have to manually focus your camera, which is         really easy, if you are extremly carefull
 
-    PICTURE ABOUT CAM
+    ![fixing camera focus](media/fixingcamerafocus.png)
     
     Take something sharp like a pencil or your fingernail and try to turn the lense circa a quarter to the left or to the right.
     You can use the nipples on the lense
@@ -154,4 +161,8 @@ If you have done everthing correctly, download the files from Github, go to the 
 ```sh
 $ python3 app.py
 ```
-
+# TO DO
+* LNURL integration
+* raspiblitz integration
+* raspibolt integration
+* cleaner code
