@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ad7271f-0369-4b00-8735-f71765803aee" name="Default Changelist" comment="" />
+    <list default="true" id="2ad7271f-0369-4b00-8735-f71765803aee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +22,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="KivyLightningATM_Repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Pierre\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../KivyLightningATM_LCD" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../KivyLightningATM_LCD/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,33 +66,72 @@
       <option name="project" value="LOCAL" />
       <updated>1586688733280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial data">
+      <created>1586688884036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586688884036</updated>
+    </task>
+    <task id="LOCAL-00003" summary="current fiat methods deleted">
+      <created>1586689002002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586689002002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial data" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial data" />
+    <MESSAGE value="current fiat methods deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="current fiat methods deleted" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="557" y="116" key="CommitChangelistDialog2" timestamp="1586688883002">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586691524745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="557" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586688883002" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1586688451125">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586691524745" />
+    <state x="557" y="116" key="CommitChangelistDialog2" timestamp="1586689001167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586688451125" />
-    <state x="799" y="413" key="Github.ShareDialog" timestamp="1586688523170">
+    <state x="557" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586689001167" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1586691561843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="799" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586688523170" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586691561843" />
+    <state x="799" y="413" key="Github.ShareDialog" timestamp="1586689147997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586689147997" />
     <state x="605" y="225" key="Github.UntrackedFilesDialog" timestamp="1586688531978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586688531978" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1586691527963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586691527963" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1586691527962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586691527962" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1586691527962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586691527962" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1586691527962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586691527962" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1586688406262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586688406262" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586691551145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586691551145" />
   </component>
 </project>
